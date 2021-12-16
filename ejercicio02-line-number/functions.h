@@ -1,0 +1,24 @@
+/**
+ * Universidad de La Laguna
+ * Escuela Superior de Ingeniería y Tecnología
+ * Grado en Ingeniería informática
+ * Informática básica
+ * 
+ * @file functions.h.cc
+ * @author Alberto Antonio Hernández Hernández  alu0101433905@ull.edu.es
+ * @brief cabecera de las funciones definidas en functions.cc y usadas en
+ *        line_number.cc
+ * @version 0.1
+ * @date 2021-12-11
+ */
+
+#include <iostream>
+#include <fstream>
+#include <string>
+
+#ifndef FUNCTIONS_H
+#define FUNCTIONS_H
+
+void Usage();
+
+#endif /// FUNCTIONS_H
